@@ -10,3 +10,16 @@ p {
   margin: 0;
   padding: 0;
 }
+
+#outer-box{
+  border:solid purple 10px
+}
+
+.white-text{
+  color:white;
+  padding: 10px;
+}
+
+.inner-box{
+  background-color: red;
+}
